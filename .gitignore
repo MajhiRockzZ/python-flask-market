@@ -140,4 +140,5 @@ cython_debug/
 
 # Custom configuration
 .idea
+.vscode
 
